@@ -25,7 +25,6 @@ public class Login {
             } else {
                 System.out.println("Incorrect username or password.");
             }
-
             // Close the database connection
             conn.close();
         } catch (SQLException ex) {

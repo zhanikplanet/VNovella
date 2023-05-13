@@ -19,6 +19,7 @@ public class menu {
                 break;
             default:
                 System.out.println("Invalid Option");
+
         }
     }
 }
